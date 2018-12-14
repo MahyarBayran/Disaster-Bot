@@ -1,0 +1,15 @@
+Character's Name:	Random dude
+
+
+States: 
+[('lisa', 0), ('looks', 1), ('hot', 2), ('tonight', 3)]
+
+
+Initial Distributions: 
+[0.4, 0.2, 0.2, 0.2]
+
+
+Transition Probabilities: 
+[[0.2, 0.4, 0.2, 0.2], [0.2, 0.2, 0.4, 0.2], [0.2, 0.2, 0.2, 0.4], [0.25, 0.25, 0.25, 0.25]]
+
+
